@@ -6,4 +6,5 @@ MCML is a multi-purpose exchange-correlation functional optimized for materials 
 Journal reference: K. Brown, Y. Maimaiti, K. Trepte, T. Bligaard, and J. Voss, "MCML: Combining physical constraints with experimental data for a multi-purpose meta-generalized gradient approximation", <a href="https://doi.org/10.1002/jcc.26732">J. Comput. Chem. 42, 2004 (2021)</a>.
 
 ## VCML-rVV10
-VCML-rVV10 is an exchange-correlation functional for surface chemistry with simultaneously optimized semi-local exchange and non-local correlation.
+VCML-rVV10 is an exchange-correlation functional for surface chemistry with simultaneously optimized semi-local exchange and non-local correlation.<br />
+Journal reference: K. Trepte and J. Voss, "Data-driven and constrained optimization of semi-local exchange and nonlocal correlation functionals for materials and surface chemistry", <a href="https://doi.org/10.1002/jcc.26872">J. Comput. Chem. 43, 1104 (2022)</a>.
