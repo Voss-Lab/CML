@@ -4,6 +4,9 @@
 !Kai Trepte and Johannes Voss
 !ktrepte@slac.stanford.edu and vossj@slac.stanford.edu
 !
+!Journal reference: J. Comput. Chem. 43, 1104 (2022).
+!https://doi.org/10.1002/jcc.26872
+!
 !
 !
 !Code for computing the VCML exchange energy and functional derivatives
